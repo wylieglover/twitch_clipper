@@ -1,5 +1,7 @@
 # TwitchTok (Twitch Clipper) 🎬
 
+![image](https://github.com/user-attachments/assets/709af948-5cf5-4c6f-a2db-36338ccc56be)
+
 **TwitchTok** is an AI-powered Twitch clip editor and automation tool that helps you generate, process, and format Twitch highlights for TikTok, YouTube Shorts, and Instagram Reels.
 
 With a sleek Flutter web UI and a FastAPI Python backend, it automates the workflow for streamers and content creators.
