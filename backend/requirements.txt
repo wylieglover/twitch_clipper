@@ -1,0 +1,41 @@
+# Don't include CUDA torch - install separately in Dockerfile with CPU version
+# torch
+# torchvision  
+# torchaudio
+
+# Lightning core
+pytorch-lightning
+pydantic_settings
+
+# Speaker diarization
+pyannote.audio
+
+# ASR inference
+speechbrain>=1.0.0,<2.0.0
+
+# WhisperX and Whisper
+whisperx>=1.2.3
+openai-whisper>=20231117
+
+# Web framework and server
+fastapi>=0.95.0
+uvicorn[standard]>=0.22.0
+aiofiles
+
+# HTTP & YAML utils
+requests>=2.31.0
+pyyaml>=6.0
+
+# Computer Vision
+opencv-python
+
+# Google GenAI SDK
+google-genai
+
+# Numerical & audio I/O
+numpy
+soundfile
+
+# Additional dependencies for media processing
+python-multipart
+skia-python

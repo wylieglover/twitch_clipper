@@ -1,0 +1,5 @@
+# All text files use LF (Unix) endings
+* text=auto eol=lf
+
+# Optionally, keep Windows line endings for specific files (rare)
+# *.bat text eol=crlf

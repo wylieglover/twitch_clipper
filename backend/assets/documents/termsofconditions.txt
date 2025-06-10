@@ -1,0 +1,94 @@
+Terms of Service
+Effective Date: May 31, 2025
+
+Welcome to TwitchTok (“we,” “us,” or “our”). These Terms of Service (“Terms”) govern your use of the TwitchTok web application hosted at https://twitchtok.web.app and any associated APIs or services (collectively, the “Service”). By accessing or using the Service, you agree to be bound by these Terms. If you do not agree, do not use the Service.
+
+1. Eligibility
+Age Requirement. You must be at least 13 years old to use the Service. If you are under 18, you need parental or guardian consent.
+
+Account Registration. To access any functionality that requires a Twitch or TikTok account, you must register by providing a valid email address and creating a password, then link your Twitch and/or TikTok account via OAuth. You are responsible for keeping your credentials secure.
+
+2. Description of the Service
+Core Functionality. TwitchTok allows users to import clips or full‐length VODs from Twitch, automatically detect highlights (e.g., via audio spikes), add subtitles, convert to a vertical 9:16 format, generate a thumbnail/header, and export a video ready for TikTok or other vertical‐video platforms.
+
+Third-Party Integrations.
+
+Twitch API: Used solely to fetch the clips or VOD segments from your linked Twitch account.
+
+TikTok API (optional): If you choose to link your TikTok account, the Service can prepare your final video for one-click upload.
+
+Whisper/WhisperX (or equivalent speech-to-text): For generating subtitles.
+
+FFmpeg & Video Hooks: For reformatting to vertical, overlaying header/text, and rendering the final video.
+
+User Content. You remain the sole owner of any videos, text, tags, or other materials you upload or generate through TwitchTok (“User Content”). By using the Service, you grant us a non-exclusive, royalty-free license to host, store, and process that content strictly to provide the Service. We do not claim any ownership over your original media.
+
+3. Account Obligations & User Conduct
+Accurate Information. You agree to provide truthful, up-to-date information when registering.
+
+Security. You are responsible for safeguarding your password and OAuth tokens. Any activity that occurs under your account is your responsibility.
+
+Prohibited Uses. You agree not to:
+
+Violate any applicable law or regulation.
+
+Infringe any third party’s rights (intellectual property, privacy, publicity).
+
+Upload or distribute content that is defamatory, obscene, discriminatory, hateful, harassing, or otherwise unlawful.
+
+Attempt to reverse-engineer, decompile, or tamper with our code or content.
+
+Interfere with or disrupt the Service or introduce any malicious code.
+
+Use the Service to send spam or unauthorized marketing messages.
+
+4. Fees & Payment
+Free Tier & Paid Plans. The Service currently offers a free tier (basic highlight selection, 720p export) and may offer paid subscription tiers in the future (e.g., batch processing, higher export resolution). If paid tiers become available, advance payment will be required and are non-refundable except as required by law.
+
+Pricing Changes. Any pricing adjustments for future paid plans will be communicated on our website prior to taking effect and will apply only to new or renewing subscriptions.
+
+5. Intellectual Property
+Our Content. All software, graphics, logos, and documentation provided by TwitchTok (the “TwitchTok Content”) remain our property (or the property of our licensors) and are protected by copyright, trademark, and other laws. You may not copy, distribute, modify, or create derivative works of any TwitchTok Content without express written permission.
+
+Feedback. If you voluntarily send feedback, suggestions, or ideas, you grant us a perpetual, irrevocable, royalty-free, worldwide license to use, reproduce, modify, and commercialize that feedback without restriction or attribution.
+
+6. Privacy
+Your privacy is important. Our Privacy Policy (below) explains how we collect, use, and store your information. By using the Service, you agree to our data practices as described there.
+
+7. Disclaimers & Limitation of Liability
+“AS-IS” Basis. The Service is provided on an “AS-IS” and “AS-AVAILABLE” basis. We make no warranties—express or implied—regarding merchantability, fitness for a particular purpose, or non-infringement.
+
+No Guarantee of Performance. We do not guarantee that the Service will be uninterrupted, error-free, or free of harmful components (e.g., viruses).
+
+Limitation of Liability. To the fullest extent permitted by law, in no event shall TwitchTok, its officers, directors, employees, or agents be liable for any indirect, incidental, special, consequential, or punitive damages (including lost profits, data loss, or goodwill) arising out of your use (or inability to use) the Service. Our aggregate liability for any claim related to the Service will not exceed $100 USD or the total fees you paid to us in the six (6) months prior to the event giving rise to the claim, whichever is greater.
+
+8. Termination
+User Choice. You may stop using the Service at any time by simply closing your account settings and ceasing to access TwitchTok.
+
+Our Right to Suspend or Terminate. We reserve the right to suspend or terminate your account, without notice, if we determine (in our sole discretion) that you have violated these Terms or that your activities pose a risk to us, other users, or third parties. Upon termination, you lose all access to the Service immediately.
+
+Surviving Sections. Sections 3 (Account Obligations & User Conduct), 4 (Fees & Payment), 5 (Intellectual Property), 6 (Privacy), 7 (Disclaimers & Limitation of Liability), 9 (Indemnification), and 10 (Governing Law & Disputes) survive termination.
+
+9. Indemnification
+You agree to defend, indemnify, and hold harmless TwitchTok, its affiliates, and their respective officers, directors, employees, and agents from any claims, losses, liabilities, damages, costs, or expenses (including reasonable attorneys’ fees) arising out of or relating to:
+
+Your use of (or inability to use) the Service.
+
+Your violation of these Terms.
+
+Your infringement of any third-party rights.
+
+Any content you post or transmit through the Service.
+
+Any negligent, reckless, or wrongful acts or omissions by you.
+
+10. Governing Law & Dispute Resolution
+Governing Law. These Terms are governed by the laws of the State of Florida, without regard to its conflict-of-law principles.
+
+Dispute Resolution. Any dispute arising from or relating to these Terms, including breach, termination, enforcement, interpretation, or validity, will be resolved by binding arbitration under the American Arbitration Association’s Consumer Arbitration Rules. You agree to first attempt an informal resolution via the website’s help page before initiating arbitration.
+
+Class Action Waiver. Both you and TwitchTok agree that any arbitration or court proceeding will be between you individually and TwitchTok only. Neither party may participate in a class action, class arbitration, or private attorney general action.
+
+11. Changes to These Terms
+We may update or modify these Terms at any time by posting the revised version at https://twitchtok.web.app/terms-of-service. Material changes will be shown on the site 30 days before they take effect. Your continued use after that date means you accept the new Terms.
+

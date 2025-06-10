@@ -1,0 +1,15 @@
+# Backend-specific .gitignore additions
+.env
+processed_clips.json
+sessions.db
+
+# Python cruft
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# VSCode and virtual environments
+.vscode/
+.venv/

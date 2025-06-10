@@ -1,0 +1,79 @@
+Privacy Policy
+Effective Date: May 31, 2025
+
+This Privacy Policy explains how TwitchTok (“we,” “us,” or “our”) collects, uses, discloses, and protects information when you use our web application (https://twitchtok.web.app) and any related APIs or services (collectively, the “Service”). By using the Service, you agree to the terms of this policy.
+
+1. Information We Collect
+1.1 Account & Profile Information
+
+Registration Data: When you create a TwitchTok account, we collect your email address, chosen username, and a hashed version of your password.
+
+OAuth Tokens: To link your Twitch and/or TikTok account, you’ll be redirected through their OAuth flow. We store encrypted OAuth access tokens (and refresh tokens if provided) so that we can fetch clips from Twitch or prepare TikTok uploads. We never store your actual third-party passwords.
+
+1.2 User Content & Media
+
+Imported Videos: When you import a Twitch clip or VOD, we temporarily cache the media file on our servers to run highlight detection (e.g., audio spike analysis), generate subtitles, produce a thumbnail/header, and reformat the file to vertical (9:16). Once you export/download your final video, the original/imported media is retained only as long as needed for that session. If you never export, cached clips are purged after 30 days.
+
+Generated Assets: Subtitles (e.g., .ASS or .SRT), headers/overlays, thumbnails, and AI-generated metadata (e.g., transcripts, suggested hooks/tags) are also temporarily stored and purged 30 days after creation—unless you explicitly save them to your account library.
+
+1.3 Usage & Analytics
+
+Log Data: We automatically collect information about how you use the Service, including IP address, browser type, device type, pages viewed, timestamps, clicks, and error logs. This helps us diagnose issues and improve the Service.
+
+Performance Metrics: We gather aggregated, non-identifiable performance data (e.g., average video processing time, subtitle generation success rate) for analytics and optimization.
+
+1.4 Cookies & Tracking
+
+We use essential cookies (and similar local-storage tokens) to maintain your session, remember preferences (e.g., last‐used resolution), and ensure security. Disabling essential cookies may prevent you from staying logged in or using core features. Third-party analytics cookies (if enabled) are limited to aggregated, non-identifiable data collection.
+
+2. How We Use Your Information
+Provide & Maintain the Service: Enable core functionality—importing clips, generating subtitles, reformatting video, thumbnail/Header creation, and exporting final videos.
+
+Authentication & OAuth: Manage your account login and authorize interactions with Twitch/TikTok.
+
+Analytics & Improvements: Analyze aggregated usage and performance metrics to identify bugs, optimize workflows, and develop new features.
+
+Optional Communications: If you opt in, we may send occasional email updates about new features, security notifications, or maintenance windows. You can opt out of marketing emails at any time via an “unsubscribe” link. Transactional emails (e.g., password reset) cannot be opted out of.
+
+3. How We Share Your Information
+Service Providers: We use trusted third-party vendors (e.g., cloud hosting, video processing APIs). These vendors receive only the data necessary to perform their functions and are contractually bound to keep it confidential.
+
+Third-Party Integrations:
+• Twitch API (Twitch, Inc.): We send your OAuth access token so that Twitch’s API can serve us the clips/VODs you requested.
+• TikTok API (ByteDance): If you link TikTok, we send your final, processed video (and captions/tags you choose) to TikTok for upload.
+• Whisper/WhisperX (OpenAI or another STT provider): We send only the audio segment or short clip to that service to generate subtitles.
+
+Legal Requirements: We may disclose your data if required to comply with laws, court orders, or government regulations, or to protect our rights or safety.
+
+No Sale of Personal Data: We do not sell or rent your personal information to any third party.
+
+4. Data Retention
+Account Data & OAuth Tokens: Retained for as long as your account is active. If you stop using the Service, your account data (including OAuth tokens) remains for 30 days and is then purged automatically.
+
+Imported/Processed Media & Assets: Purged 30 days after creation or last access, whichever is earlier.
+
+Aggregated Analytics: Stored indefinitely in anonymized form to inform platform improvements.
+
+5. Your Choices
+Updating Account Info: You can change your email or password at any time through Settings > Account.
+
+Opting Out of Marketing: If you previously opted in to marketing emails, you may click “unsubscribe” in any such email to opt out. Transactional/Service emails (e.g., password reset) cannot be opted out of.
+
+Cookies: You may disable non-essential browser cookies via your browser settings. Note that disabling essential cookies may prevent core features (e.g., staying logged in).
+
+6. Security
+We implement reasonable administrative, technical, and physical measures to protect your data. However, no method of Internet transmission or electronic storage is 100% secure. You acknowledge that you transmit data at your own risk.
+
+7. Children’s Privacy
+The Service is not designed for children under 13. We do not knowingly collect personal information from anyone under 13. If you become aware of any data from a child under 13, that data will be deleted immediately.
+
+8. International Data Transfers
+TwitchTok is based in the United States. If you access the Service from outside the U.S., your information may be transferred to, stored, and processed in the U.S. By using the Service, you consent to such transfers.
+
+9. Changes to This Privacy Policy
+We may update this Privacy Policy at any time by posting the revised version at https://twitchtok.web.app/privacy-policy. The “Effective Date” at the top will reflect when changes take effect. Your continued use of the Service after that date means you accept the new policy.
+
+10. Do Not Track Signals
+Our Service does not respond to “Do Not Track” signals. Third-party analytics may collect data according to their own policies.
+
+End of Privacy Policy
