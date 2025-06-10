@@ -1,5 +1,6 @@
 # Backend-specific .gitignore additions
 .env
+output/** 
 processed_clips.json
 sessions.db
 
